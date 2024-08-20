@@ -3,7 +3,8 @@ Introduction:
 This analysis examines companies across four sectors—Healthcare, Finance, Industrial, and Consumer Defensive—using metrics such as Market Cap, P/E ratio, Gross Profit, and Gross Profit Growth. It includes a predictive analysis to identify undervalued companies, aiming to determine whether these companies are undervalued or overvalued.
 ## Methodology:
 
-Data Collection : Extracted key financial metrics from Finviz, Macrotrends, and Yahoo Finance. 
+Data Collection : Extracted key financial metrics from Finviz, Macrotrends, and Yahoo Finance. <br>
+
 Analysis: Compared sector performance, focusing on market valuation and growth potential to predict future value.
 
 ## Sector Insights:
