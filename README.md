@@ -1,7 +1,6 @@
 ## Identifying Undervalued Companies
 Introduction:
-This report analyzes companies in Healthcare, Finance, Industrial, and Consumer Defensive sectors using Market Cap, P/E ratio, and Gross Profit metrics to identify undervalued opportunities.
-
+This analysis examines companies across four sectors—Healthcare, Finance, Industrial, and Consumer Defensive—using metrics such as Market Cap, P/E ratio, Gross Profit, and Gross Profit Growth. It includes a predictive analysis to identify undervalued companies, aiming to determine whether these companies are undervalued or overvalued.
 ## Methodology:
 
 Data Collection : Extracted key financial metrics from Finviz, Macrotrends, and Yahoo Finance. 
