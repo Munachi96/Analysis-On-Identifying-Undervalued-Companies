@@ -26,4 +26,4 @@ Top Performer : Kraft Heinz Co. <br>
 Undervalued : Kraft Heinz Co. is predicted to grow to $93.62B, highlighting its undervaluation at $41.01B.<br>
 
 ## Conclusion:
-This analysis identifies undervalued companies by comparing current values against predicted future performance, revealing investment opportunities across multiple sectors.
+This analysis identifies undervalued companies by comparing current values against predicted future performance, revealing investment opportunities across multiple sectors. [FULL ANALYSIS REPORT HERE ](https://docs.google.com/document/d/1JRe2HXjN2KdZitb8CGelIVTtH2wgGgAnWLg_-mRNk9k/edit)
